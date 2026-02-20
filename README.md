@@ -46,8 +46,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name: Arshitha MS
-### Register Number: 212223240015
+### Name: SHARAN S
+### Register Number: 212224040309
 ```python
 class NeuralNet(nn.Module):
   def __init__(self):
